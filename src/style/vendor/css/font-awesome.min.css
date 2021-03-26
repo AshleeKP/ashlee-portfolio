@@ -585,6 +585,9 @@
 .fa-linkedin-square:before {
   content: '\f08c';
 }
+.fa-old-republic {
+  content: '\f510';
+}
 .fa-thumb-tack:before {
   content: '\f08d';
 }
@@ -797,6 +800,9 @@
 }
 .fa-linkedin:before {
   content: '\f0e1';
+}
+.fa-old-republic:before {
+  content: '\f510';
 }
 .fa-rotate-left:before,
 .fa-undo:before {
