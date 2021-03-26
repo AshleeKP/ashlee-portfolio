@@ -23,7 +23,8 @@ export const aboutData = {
   paragraphTwo:
     "Always on the lookout for a new technology to master, I'm quick on my feet and adaptable in the face of any challenge. ",
   paragraphThree: "Looking for someone to hire? Look no further. I'm open to all roles.",
-  resume: 'resume.pdf', // if no resume, the button will not show up
+  resume:
+    'https://docs.google.com/document/d/1hi5G230MsLuHPyuKXtYdPfqSHyfq58bsgzUerePn7Dw/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
