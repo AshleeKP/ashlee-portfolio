@@ -39,7 +39,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'BANANAZON.png',
     title: 'Bananazon',
     info: 'An E-Commerce Website',
     info2: 'Built using React, Redux, Express, Sequelize and PostgreSQL',
