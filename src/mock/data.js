@@ -63,7 +63,7 @@ export const projectsData = [
     info:
       'Your friendly newsbias alert extension. Pulls from news media bias measuring sites to alert the user to any bias either ways',
     info2: 'and is also ',
-    url: 'yourcredibuddy.com',
+    url: 'http://yourcredibuddy.com/',
     repo: '', // if no repo, the button will not show up
   },
 ];
