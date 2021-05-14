@@ -4,14 +4,14 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Ashlee | Software Developer',
   lang: 'en',
-  description: 'Why not hire me?',
+  description: 'Building cool stuff',
 };
 
 // HERO DATA
 export const heroData = {
   title: '',
   name: 'Ashlee.',
-  subtitle: "I'm looking for work",
+  subtitle: "I'm a Full Stack Software Engineer",
   cta: 'who is she',
 };
 
@@ -22,9 +22,8 @@ export const aboutData = {
     "I'm a 10-year veteran of the beverage industry breaking into web development with a fresh outlook on problem solving and collaboration.",
   paragraphTwo:
     "Always on the lookout for a new technology to master, I'm quick on my feet and adaptable in the face of any challenge. ",
-  paragraphThree: "Looking for someone to hire? Look no further. I'm open to all roles.",
-  resume:
-    'https://docs.google.com/document/d/1hi5G230MsLuHPyuKXtYdPfqSHyfq58bsgzUerePn7Dw/edit?usp=sharing', // if no resume, the button will not show up
+  paragraphThree: 'My favorite cocktail? A daiquiri.',
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
