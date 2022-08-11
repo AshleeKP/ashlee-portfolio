@@ -12,7 +12,7 @@ export const heroData = {
   title: '',
   name: 'Ashlee.',
   subtitle: "I'm a Full Stack Software Engineer",
-  cta: 'who is she',
+  cta: 'who is she?',
 };
 
 // ABOUT DATA
@@ -30,32 +30,14 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'checksponme.png',
-    title: 'ChecksOn Me',
-    info: 'A simple payment app for bars and restaurants. No extra equipment needed.',
-    info2: 'Built using Flutter, Dart, and Stripe. ',
-    url: 'https://checkson.me/',
-    repo: '', // if no repo, the button will not show up
+    img: 'pixelmate.png',
+    title: 'Pixelmate',
+    info: 'A pixel art maker',
+    info2: 'Built using only vanilla JavaScript, HTML, and CSS',
+    url: 'https://ashleekp.github.io/Pixelmate/',
+    repo: 'https://github.com/AshleeKP/Pixelmate', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'BANANAZON.png',
-    title: 'Bananazon',
-    info: 'An E-Commerce Website',
-    info2: 'Built using React, Redux, Express, Sequelize and PostgreSQL',
-    url: 'https://github.com/2006-GHP-GS-TEAMSUICUNE/GRACE-SHOPPER',
-    repo: 'https://github.com/2006-GHP-GS-TEAMSUICUNE/GRACE-SHOPPER', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'brain-maze.png',
-    title: 'ScavengeAR Escape',
-    info: 'An Scavengar Hunt meets an Escape Room, in Augmented Reality.',
-    info2: 'Built using ViroReact, a React Native based AR/VR technology.',
-    url: 'https://youtu.be/XZuxFMk2S9g',
-    repo: 'https://github.com/Capstone-E/ScavengAR-Escape', // if no repo, the button will not show up
-  },
-  {
+  { 
     id: nanoid(),
     img: 'credibuddy.png',
     title: 'Credibuddy',
@@ -65,6 +47,24 @@ export const projectsData = [
     url: 'http://yourcredibuddy.com/',
     repo: '', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'checksponme.png',
+    title: 'ChecksOn Me',
+    info: 'A simple payment app for bars and restaurants. No extra equipment needed.',
+    info2: 'Built using Flutter, Dart, and Stripe. ',
+    url: 'https://checkson.me/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'brain-maze.png',
+    title: 'ScavengeAR Escape',
+    info: 'An Scavengar Hunt meets an Escape Room, in Augmented Reality.',
+    info2: 'Built using ViroReact, a React Native based AR/VR technology.',
+    url: 'https://youtu.be/XZuxFMk2S9g',
+    repo: 'https://github.com/Capstone-E/ScavengAR-Escape', // if no repo, the button will not show up
+  }
 ];
 
 // CONTACT DATA
